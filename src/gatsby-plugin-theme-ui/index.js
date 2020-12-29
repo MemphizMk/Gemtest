@@ -38,8 +38,8 @@ export default {
   },
   fonts: {
     ...chronoblogTheme.fonts,
-    body: '-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif',
-    heading: 'inherit',
-    monospace: 'Menlo, monospace'
+    body: 'BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif',
+    heading: 'avenir',
+    monospace: 'BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif'
   }
 };
