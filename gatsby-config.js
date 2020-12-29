@@ -9,27 +9,22 @@ module.exports = {
     ogLanguage: `en_US`,
     author: 'GemWire',
     authorDescription: 'Your one stop for Gaming and Esports News',
-    avatar: 'GemWire - Color Pallet (1).png',
+    avatar: 'GemWire icon.png',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
-        icon: `mail`,
-        url: `mailto:gemwiremail@gemwire.com`
+        icon: `instagram`,
+        url: `https://www.instagram.com/gem.esports/`
       },
       {
         icon: `twitter`,
         url: `https://twitter.com/gemwire`
       },
       {
-        icon: `instagram`,
-        url: `https://www.instagram.com/gemwire/`
+        icon: `youtube`,
+        url: `https://twitter.com/gemwire`
       },
-      {
-        icon: `discord`,
-        url: `discord.gg/Liquipedia`
-      },
-
     ]
   },
   plugins: [
