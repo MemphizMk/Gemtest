@@ -9,7 +9,7 @@ module.exports = {
     ogLanguage: `en_US`,
     author: 'GemWire',
     authorDescription: 'Your one stop for Gaming and Esports News',
-    avatar: '/gemwire.jpg',
+    avatar: 'GemWire - Color Pallet (1).png',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
