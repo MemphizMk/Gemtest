@@ -1,34 +1,35 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'GemWire',
+    siteDescription: 'Your one stop for gaming and esports news',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://gemwire.gg/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
-    avatar: '/avatar.jpg',
+    author: 'GemWire',
+    authorDescription: 'Your one stop for Gaming and Esports News',
+    avatar: '/gemwire.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
-        icon: `at`,
-        url: `mailto:mymail@mail.com`
+        icon: `mail`,
+        url: `mailto:gemwiremail@gemwire.com`
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/gemwire`
       },
       {
-        icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        icon: `instagram`,
+        url: `https://www.instagram.com/gemwire/`
       },
       {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
-      }
+        icon: `discord`,
+        url: `discord.gg/Liquipedia`
+      },
+
     ]
   },
   plugins: [
@@ -54,15 +55,15 @@ module.exports = {
           }
         },
         feedSearch: {
-          symbol: '🔍'
+          symbol: ''
         }
       }
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Chronoblog Gatsby Theme`,
-        short_name: `Chronoblog`,
+        name: `GemWire`,
+        short_name: `Blog`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
