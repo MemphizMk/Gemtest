@@ -3,7 +3,7 @@ title: Full Blog Post Example
 cover: ./ff677-16092432594275-800.jpg
 date: 2020-12-01
 description: All the usual blog post.
-tags: ['freefire']
+tags: ['freefire', 'general']
 ---
 
 In a way, the battle royale genre has revolutionized the mobile gaming community, and games like Free Fire have established themselves as a fan favorite.
