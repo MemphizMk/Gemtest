@@ -1,5 +1,5 @@
 ---
-title: Full Blog Post Example
+title: Is FreeFire the next big thing?
 cover: ./ff677-16092432594275-800.jpg
 date: 2020-12-01
 description: All the usual blog post.
