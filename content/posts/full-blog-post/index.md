@@ -1,142 +1,77 @@
 ---
 title: Full Blog Post Example
-cover: ./image.jpg
-date: 2019-12-01
+cover: ./ff677-16092432594275-800.jpg
+date: 2020-12-01
 description: All the usual blog post.
-tags: ['post']
+tags: ['freefire']
 ---
 
-This is an example blog post. All your blog posts should be here: `content/posts`.
+In a way, the battle royale genre has revolutionized the mobile gaming community, and games like Free Fire have established themselves as a fan favorite.
 
-Websites like Reddit, StackOverflow, and GitHub had millions of people using Markdown. And Markdown started to be used beyond the web, to author books, articles, slide shows, letters, and lecture notes.
+Free Fire is a prominent BR title developed and published by the Singaporean company Garena. It was among one of the most live-watched games on YouTube in 2020, which underlines its popularity. With regular updates, the game's player base has grown massively.
 
-What distinguishes Markdown from many other lightweight markup syntaxes, which are often easier to write, is its readability. As Gruber writes:
+While initially creating an account in Free Fire, users have to set a moniker/nickname. Many players search on the internet for stylish names with a variety of symbols and fonts. This article provides a list of 30 such nicknames.
 
-> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
+## 30 most stylish nicknames with symbols in Free Fire
 
-## Frontmatter
+#1 ₩₳ⱤⱤłØⱤ
 
-Metadata for your Markdown.
+#2 ༒☬𝓥𝓲𝓽𝓪𝓵𝓲𝓽𝔂☬༒
 
-In this post it looks like this:
+#3 ꧁ɖǟʀӄռɛֆֆ꧂
 
-```md
----
-title: Full Blog Post Example
-cover: ./image.jpg
-date: 2019-11-05
-description: All the usual blog post.
-tags: ['post']
----
-```
+#4 𒆜🅱🆁🆄🆃🅰🅻𒆜
 
-Read more about this setting here: [github.com/Chronoblog/gatsby-theme-chronoblog#posts](https://github.com/Chronoblog/gatsby-theme-chronoblog#posts)
+#5 ⡷MISSIФИ⢾
 
-## Markdown
+#6 𝕾𝖈𝖆𝖗𝖊𝖉?
 
-This post is a `markdown` file and you can do everything in it that allows you to do markdown.
+#7 ~𝙋𝙝𝙖𝙣𝙩𝙤𝙢~
 
-### Headers
+#8 -ᕼᗝᖇᎥ乙ᗝᑎ-
 
-```md
-# This is an <h1> tag
+#9 ЇпHцѫапё
 
-## This is an <h2> tag
+#10 *🅴🅻🅸🆃🅴*
 
-###### This is an <h6> tag
-```
+#11 𝙰̷𝚟̷𝚎̷𝚗̷𝚐̷𝚎̷
 
-# This is an `<h1>` tag
+#12 ﾉ𝙱𝚞𝚝𝚌𝚑𝚎𝚛ﾉ
 
-## This is an `<h2>` tag
+#13 Dσσɱʂԃαყ
 
-###### This is an `<h6>` tag
+#14 ★ŚŤĂŔ★
 
-### Emphasis
+#15 C͢h͢a͢m͢p͢i͢o͢n͢
 
-```md
-_This text will be italic_  
-**This text will be bold**
-```
+#16 ￌ🅳🅴🅰🅳🅻🆈ￌ
 
-_This text will be italic_  
-**This text will be bold**
+#17 ░P░O░W░E░R░
 
-### Lists
+#18 DҽAԃ1
 
-```md
-- Item 1
-- Item 2
-  - Item 2a
-  - Item 2b
-```
+#19 ▄︻🅺🅸🅽🅶══
 
-- Item 1
-- Item 2
-  - Item 2a
-  - Item 2b
+#20 ЄƇԼƖƤƧЄ
 
-### Images
+#21 ᗯᕼᎥᖇᒪᗯᎥᑎᗪ
 
-```md
-![image-in-post](./image-in-post.jpg)
-```
+#22 ΓHΞБΞSΓ 
 
-![image-in-post](./image-in-post.jpg)
+#23 Dҽαƚԋ 
 
-### Links
+#24 ᔕᒪᗩᑌǤᕼ丅ᗴᖇ
 
-```md
-[github.com/Chronoblog/gatsby-theme-chronoblog](https://github.com/Chronoblog/gatsby-theme-chronoblog)
-```
+#25 Lυɳαɾ!
 
-[github.com/Chronoblog/gatsby-theme-chronoblog](https://github.com/Chronoblog/gatsby-theme-chronoblog)
+#26 Ð尺ΛƓØЛら
 
-### Blockquotes
+#27 ★𝙽𝚘𝙼𝚎𝚛𝚌𝚢★
 
-```md
-As Kanye West said:
+#28 PЯФDIGY
 
-> We're living the future so
-> the present is our past.
-```
+#29 ᗯᎥ乙ᗩᖇᗪ
 
-As Kanye West said:
+#30 _🄼🄰🅂🅃🄴🅁_
 
-> We're living the future so
-> the present is our past.
-
-### Inline code
-
-**`js:`**
-
-```js
-const someFun = (text) => {
-  console.log('some ' + text);
-};
-someFun('text');
-```
-
-**`css:`**
-
-```css
-.thing {
-  font-size: 16px;
-  width: 100%;
-}
-@media screen and (min-width: 40em) {
-  font-size: 20px;
-  width: 50%;
-}
-@media screen and (min-width: 52em) {
-  font-size: 24px;
-}
-```
-
-**`jsx:`**
-
-```jsx
-<Thing fontSize={[16, 20, 24]} width={[1, 1 / 2]} />
-```
-
-What distinguishes Markdown from many other lightweight markup syntaxes, which are often easier to write, is its readability.
+Players can also use websites like fancytexttool.com and fancytextguru.com to incorporate fancy texts and symbols in their names.
